@@ -1,2 +1,2 @@
-# biography
-Peter Belbita biography
+# Biography
+Peter Belbita Biography
